@@ -1,0 +1,53 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "ReadMe",
+      "description": "A project submission for 'Belajar Membuat Aplikasi Flutter untuk Pemula' Course",
+      "imageUrl": "https://drive.google.com/uc?id=1-gqlv2DecHgzZ1NyPom0xN66o1C8KPvw",
+      "projectUrl": "https://github.com/anugrahsputra/ReadME_v2"
+    },
+    {
+      "id": 2,
+      "name": "Kantin Virtual",
+      "description": "Internship project at a company owned by one of my lecturers for three months.",
+      "imageUrl": "https://drive.google.com/uc?id=1-h0DGo7Y23ToXUjZd0mkd7BlUue82QUt",
+      "projectUrl": "https://github.com/anugrahsputra/kantin_online"
+    },
+    {
+      "id": 3,
+      "name": "Just Note It",
+      "description": "A quick and simple notes app, easy to use and free. Write everything in one simple step and just note it. This is the first app that me and my friend have created and published it to Google Play Store.",
+      "imageUrl": "https://drive.google.com/uc?id=1-_lwDvTFfmNlVXGlcw4IXm1AJ-qHMx4u",
+      "projectUrl": "https://play.google.com/store/apps/details?id=com.kiput.just_note_it&hl=en&gl=US"
+    },
+    {
+      "id": 4,
+      "name": "RestoFinder",
+      "description": "A project submission for Dicoding 'Belajar Fundamental Aplikasi Flutter (Learn the Fundamentals of Flutter App)' course.",
+      "imageUrl": "https://drive.google.com/uc?id=10lU6BKW35Si068wr_sIla5j0tU0am6x3",
+      "projectUrl": "https://github.com/anugrahsputra/restaurant_app.git"
+    },
+    {
+      "id": 5,
+      "name": "Ditonton",
+      "description": "A project submission for 'Dicoding Menjadi Flutter Developer Expert (Become Flutter Developer Expert)' course.",
+      "imageUrl": "https://drive.google.com/uc?id=1261DT9cx382cW92ecF0yDikHgXvZJ-YV",
+      "projectUrl": "https://github.com/anugrahsputra/dicoding_ditonton"
+    },
+    {
+      "id": 6,
+      "name": "E-Market Seller",
+      "description": "The E-Market Seller mobile application is designed for sellers who want to sell their products online, specifically catering to the needs of UMKM (Micro, Small, and Medium Enterprises) located in Kecamatan Malingping.",
+      "imageUrl": "https://drive.google.com/uc?id=10tKJAGHhiJzsBaIjMDT8lZpOcF8m3wyn",
+      "projectUrl": "https://github.com/anugrahsputra/emarket-seller"
+    },
+    {
+      "id": 7,
+      "name": "E-Market Buyer",
+      "description": "The E-Market Buyer mobile application is designed for buyers who want to purchase products online from the E-Market platform. This application caters to the needs of people residing in Kecamatan Malingping.",
+      "imageUrl": "https://drive.google.com/uc?id=10oKIyiZfJjheWsp1lSlqx0IpjXVdW9FR",
+      "projectUrl": "https://github.com/anugrahsputra/emarket-buyer"
+    }
+  ] 
+}
