@@ -48,6 +48,13 @@
       "description": "The E-Market Buyer mobile application is designed for buyers who want to purchase products online from the E-Market platform. This application caters to the needs of people residing in Kecamatan Malingping.",
       "imageUrl": "https://drive.google.com/uc?id=10oKIyiZfJjheWsp1lSlqx0IpjXVdW9FR",
       "projectUrl": "https://github.com/anugrahsputra/emarket-buyer"
+    },
+    {
+      "id": 8,
+      "name": "Get Wallpaper",
+      "description": "Get Wallpaper is a mobile application built using Flutter. It allows users to browse, download, and set wallpapers from the internet. The application fetches wallpaper data from an external API and displays it in a user-friendly interface.",
+      "imageUrl": "https://drive.google.com/uc?id=1RkxlFBrL94u3Wp7yeOcexT5GMWgmncT7",
+      "projectUrl": "https://github.com/anugrahsputra/get_wallpaper"
     }
-  ] 
+  ]
 }
