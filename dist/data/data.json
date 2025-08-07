@@ -55,6 +55,13 @@
       "description": "Get Wallpaper is a mobile application built using Flutter. It allows users to browse, download, and set wallpapers from the internet. The application fetches wallpaper data from an external API and displays it in a user-friendly interface.",
       "imageUrl": "https://drive.google.com/uc?id=1RkxlFBrL94u3Wp7yeOcexT5GMWgmncT7",
       "projectUrl": "https://github.com/anugrahsputra/get_wallpaper"
+    },
+    {
+      "id": 9,
+      "name": "Quraani App",
+      "description": "Get Wallpaper is a mobile application built using Flutter. It allows users to browse, download, and set wallpapers from the internet. The application fetches wallpaper data from an external API and displays it in a user-friendly interface.",
+      "imageUrl": "https://drive.google.com/uc?id=1RkxlFBrL94u3Wp7yeOcexT5GMWgmncT7",
+      "projectUrl": "https://github.com/anugrahsputra/get_wallpaper"
     }
   ]
 }

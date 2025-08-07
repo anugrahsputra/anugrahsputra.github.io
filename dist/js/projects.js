@@ -1,7 +1,8 @@
 function getProject() {
   console.log("get data");
-  fetch("dist/data/data.json").then((res) => res.json()).then(
-    (data) => {
+  fetch("dist/data/data.json")
+    .then((res) => res.json())
+    .then((data) => {
       console.log(data);
       let output = "";
       const sortData = data["result"].reverse();
@@ -29,12 +30,13 @@ function getProject() {
         `;
       });
       document.getElementById("projectId").innerHTML = output;
-    },
-  ).catch((e) => {
-    console.log(`error get data from json: ${e}`);
-    document.getElementById("projectId").innerHTML =
-      `<p class="text-base font-medium text-secondary">Error get data ${e}</p>`;
-  });
+    })
+    .catch((e) => {
+      console.log(`error get data from json: ${e}`);
+      document.getElementById(
+        "projectId"
+      ).innerHTML = `<p class="text-base font-medium text-secondary">Error get data ${e}</p>`;
+    });
 }
 
 getProject();
